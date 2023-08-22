@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
 <h1 align="center">Hi 👋, I'm Sumit Upadhyay</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
@@ -23,7 +24,8 @@
 <a href="https://stackoverflow.com/users/21479291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21479291" height="30" width="40" /></a>
 <a href="https://instagram.com/lynx__sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynx__sumit" height="30" width="40" /></a>
 <a href="https://hashnode.com/@lynxsumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@lynxsumit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lynxsumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lynxsumit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lynxsumit" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lynxsumit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
