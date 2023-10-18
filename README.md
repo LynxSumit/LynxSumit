@@ -1,7 +1,7 @@
 ![logo](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
 <h1 align="center">Hi 👋, I'm Sumit Upadhyay</h1>
 <h3 align="center">A passionate Full Stack developer and Open Source COntributor from India</h3>
-[![An image of @lynxsumit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lynxsumit)](https://holopin.io/@lynxsumit)
+
 
 <img align="right" alt="Code with me" width="400" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif">
 - 🔭 I’m currently working on **E-commerce**
