@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png)
 <h1 align="center">Hi 👋, I'm Sumit Upadhyay</h1>
-<h3 align="center">A passionate Full Stack developer and Open Source COntributor from India</h3>
+<h3 align="center">A passionate Full Stack developer and Open Source Contributor from India</h3>
 
 
 <img align="right" alt="Code with me" width="400" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif">
