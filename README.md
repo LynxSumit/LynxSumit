@@ -4,7 +4,7 @@
 
 
 <img align="right" alt="Code with me" width="400" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif">
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently modifying my **Organize me web app**
 
 - 🌱 I’m currently learning **MERN in depth**
 
